@@ -31,3 +31,6 @@ the remote name I type `origin` and I enter the remote URL. I can
 inspect the result with `M-x magit-remote-popup`. Everything's
 perfect. Now I can push my pending commits to the remote origin with
 `M-x magit-push`.
+
+I tried to find out if it makes sense to create new files with
+projectile. No, `C-x C-f`, there's nothing simpler than that.
