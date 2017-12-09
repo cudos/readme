@@ -34,3 +34,15 @@ perfect. Now I can push my pending commits to the remote origin with
 
 I tried to find out if it makes sense to create new files with
 projectile. No, `C-x C-f`, there's nothing simpler than that.
+
+I know I will open this file, `emacs.md` quite often in the future. So
+I set a bookmark to it with `C-x r m`. Then I can reopen `emacs.md`
+quite easy through the list of all my bookmarks `C-x r l`. Pretty
+cool, hm?
+
+I have my org-mode file `refile.org` open and I want to refile a
+`TODO` item. I do it with `C-c C-w`.
+
+I have something that needs to be or I want to look upon somethimes in
+the future, not now. I hit `C-c c`. Then I can choose between two
+templates for todos (t) and notes (n).
