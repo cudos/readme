@@ -1,5 +1,4 @@
-q# aws.md - Why? - Because I can!
-
+# aws.md - Yes I can!
 
 I setup a new virtualenv to work with the awscli:
 
