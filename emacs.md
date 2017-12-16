@@ -43,6 +43,9 @@ cool, hm?
 I have my org-mode file `refile.org` open and I want to refile a
 `TODO` item. I do it with `C-c C-w`.
 
-I have something that needs to be or I want to look upon somethimes in
-the future, not now. I hit `C-c c`. Then I can choose between two
-templates for todos (t) and notes (n).
+I have something that needs to be done or I want to look upon
+somethimes in the future, not now. I hit `C-c c`. Then I can choose
+between two templates for todos (t) and notes (n).
+
+I want to drop a bookmark from my list of bookmarks. Run `M-x
+bookmark-delete`.
